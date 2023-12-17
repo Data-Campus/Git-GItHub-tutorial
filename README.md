@@ -17,7 +17,7 @@ upstream        https://github.com/Data-Campus/Git-GItHub-tutorial.git (push)
 **注意：ここではチュートリアル用のリポジトリのリモートリポジトリ．ローカルリポジトリを作成している．開発なら開発用リポジトリに対して同様のことを行う．**
 ## 大まかなイメージ(ブランチはのちほど説明)
 
-<img src="../img/git.png">
+<img src="./img/git.png">
 
 ## ハンズオンチュートリアル
 ### 自分用のディレクトリを作成して，そこに「Hello, GitHub」と出力するジュピターノートブックを作成しよう
